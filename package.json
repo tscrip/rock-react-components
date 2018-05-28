@@ -1,0 +1,23 @@
+{
+  "name": "rock-react-components",
+  "version": "1.0.0",
+  "description": "React Components that utilize RockRMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tscrip/rock-react-components.git"
+  },
+  "author": "tscrip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tscrip/rock-react-components/issues"
+  },
+  "homepage": "https://github.com/tscrip/rock-react-components#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "^16.4.0"
+  }
+}
